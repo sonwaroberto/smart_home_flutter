@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "959943491661",
+    "firebase_url": "https://smarthome-6f50e-default-rtdb.firebaseio.com",
+    "project_id": "smarthome-6f50e",
+    "storage_bucket": "smarthome-6f50e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959943491661:android:861ac1564c98a071b55c04",
+        "android_client_info": {
+          "package_name": "com.example.my_smart_home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959943491661-3p7vkau227ak2mm6fo4uqei5g84kh1bg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtQ0uTWLkNVuK7e_ZGQ9UHxebQnD1WZLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959943491661-3p7vkau227ak2mm6fo4uqei5g84kh1bg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "959943491661-9lcv5v643bhq0v1vrifl6uv31te7nial.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartHome"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959943491661:android:b4bf4b28145db285b55c04",
+        "android_client_info": {
+          "package_name": "com.example.smart_home"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959943491661-3p7vkau227ak2mm6fo4uqei5g84kh1bg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtQ0uTWLkNVuK7e_ZGQ9UHxebQnD1WZLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959943491661-3p7vkau227ak2mm6fo4uqei5g84kh1bg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "959943491661-9lcv5v643bhq0v1vrifl6uv31te7nial.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.smartHome"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
